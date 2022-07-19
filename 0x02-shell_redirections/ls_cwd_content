@@ -1,5 +1,5 @@
 total 88
-drwxr-xr-x 2 root root 4096 Jul 19 13:24 .
+drwxr-xr-x 2 root root 4096 Jul 19 13:54 .
 drwxr-xr-x 6 root root  131 Jul 19 08:38 ..
 lrwxrwxrwx 1 root root   23 Jul 19 08:41 .#0-hello_world -> root@7e70041ea140.16088
 -rwxrwxrwx 1 root root   32 Jul 19 09:34 0-hello_world
@@ -19,10 +19,10 @@ lrwxrwxrwx 1 root root   23 Jul 19 08:41 .#0-hello_world -> root@7e70041ea140.16
 lrwxrwxrwx 1 root root   23 Jul 19 10:31 .#7-file -> root@7e70041ea140.16720
 -rwxr-xr-x 1 root root   78 Jul 19 10:52 7-file
 -rwxr-xr-x 1 root root   38 Jul 19 10:21 7-file~
-lrwxrwxrwx 1 root root   23 Jul 19 13:22 .#8-cwd_state -> root@7e70041ea140.16912
--rwxr-xr-x 1 root root   46 Jul 19 13:27 8-cwd_state
+-rwxr-xr-x 1 root root   46 Jul 19 13:38 #8-cwd_state#
+-rwxr-xr-x 1 root root   51 Jul 19 13:54 8-cwd_state
 -rwxr-xr-x 1 root root   41 Jul 19 13:23 8-cwd_state~
 -rw-r--r-- 1 root root   17 Jul 19 10:15 iacta
 -rw-r--r-- 1 root root    0 Jul 19 10:15 iacta~
--rw-r--r-- 1 root root 1462 Jul 19 13:26 ls_cwd_content
--rw-r--r-- 1 root root   16 Jul 19 08:39 README.md
+-rw-r--r-- 1 root root    0 Jul 19 13:53 ls_cwd_content
+-rw-r--r-- 1 root root   16 Jul 19 08:39 README.md {} +
