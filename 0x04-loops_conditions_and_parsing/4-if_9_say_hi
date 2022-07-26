@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # argonaughts
 x=0
-until [ $x -gt 9 ]
+while [ $x -lt 10 ]
 do
     echo "Best School"
 
