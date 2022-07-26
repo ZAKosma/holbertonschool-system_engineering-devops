@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+# argonaughts
+x=0
+while [ $x -lt 20 ]
+do
+    case $x in
+	
+	3)
+	    echo "bad luck from China"
+	    ;;
+
+	8)
+	    echo "bad luck from Japan"
+	    ;;
+
+	16)
+	    echo "bad luck from Italy"
+	    ;;
+	*)
+	    echo $x
+	    ;;
+    esac
+    (( x++ ))
+done
+
+     
