@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# argonaughts
+x=0
+until [ $x -gt 9 ]
+do
+    echo "Best School"
+
+    if $x -eq 8
+    then
+	echo "Hi"
+    fi
+    (( x++ ))
+done
+
+     
